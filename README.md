@@ -1,5 +1,8 @@
 # hospital-patients-dashboard
 Hospital patient data analysis and Excel dashboard 
+
+SECURELIFE GENERAL HOSPITAL 
+
 Secure Life General Hospital's management had seen admissions, unpaid bills and insurance coverage shift across departments, but had no single report of operational and financial performance. As the data analyst, I turned the raw visit data into an interactive Excel dashboard that answers ten management questions and adds insights beyond them.
 
 Data
